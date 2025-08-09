@@ -1,1 +1,1 @@
-cosole.log('EWjecutando el sistema´);
+cosole.log('Ejecutando el sistema´);
